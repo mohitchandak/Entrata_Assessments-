@@ -1,7 +1,0 @@
-utils\TestListener.class
-TestAll.class
-tests\TestAll.class
-pages\HomePage.class
-pages\SignUpPage.class
-utils\ExtentReportManager.class
-pages\WatchDemoPage.class
