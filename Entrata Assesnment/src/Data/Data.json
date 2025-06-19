@@ -1,0 +1,21 @@
+{
+  "Title" : "Property Management Software | Entrata®",
+  "WatchDemoButtonXpath": "//a[@data-wf-element-id='3ac1575f-3fd3-6dc7-5b96-ca9b97426bb4']",
+  "SignUpButtonXpath" : "//a[@data-wf-element-id='3ac1575f-3fd3-6dc7-5b96-ca9b97426bb2']",
+  "WatchDemoTitle": "Entrata | Optimize Property Management with One Platform",
+  "DemoFormData": {
+    "FirstName": "John",
+    "LastName": "Doe",
+    "Email": "john.doe@example.com",
+    "Company": "Example Corp",
+    "Phone": "123-456-7890",
+    "UnitCount": "101 - 300",
+    "JobTitle": "Property Manager",
+    "DemoRequest": "an Owner/Operator or Property Manager"
+  },
+  "SignUpTitle" : "Entrata Sign In",
+  "PropertyManagerLogin" : "//a[@data-wf-element-id='f77db2b9-75f7-7ab1-281e-70099aef2680' and @href='https://sso.entrata.com/entrata/login']",
+  "ResidentLoginButton" : "//a[@data-wf-element-id='f77db2b9-75f7-7ab1-281e-70099aef2680' and @href='https://www.residentportal.com/']",
+  "PropertyManagerPageTitle" : "Sso Login"
+
+}
